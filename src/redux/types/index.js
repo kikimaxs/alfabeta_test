@@ -1,0 +1,15 @@
+export const AMBIL_DATA = 'AMBIL_DATA';
+export const AMBIL_BERITA = 'AMBIL_BERITA';
+export const ADD_POST = 'ADD_POST';
+export const DELETE_DATA = 'DELETE_DATA';
+export const USER_REGISTER = 'USER_REGISTER';
+export const USER_LOGIN = 'USER_LOGIN';
+export const GET_TOKEN = 'GET_TOKEN';
+export const AMBIL_MAPS = 'AMBIL_MAPS';
+
+export const SESSION_RESTORING = 'SESSION_RESTORING';
+export const SESSION_LOADING = 'SESSION_LOADING';
+export const SESSION_SUCCESS = 'SESSION_SUCCESS';
+export const SIGNUP_SUCCESS = 'SIGNUP_SUCCESS';
+export const SESSION_ERROR = 'SESSION_ERROR';
+export const SESSION_LOGOUT = 'SESSION_LOGOUT';

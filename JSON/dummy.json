@@ -1,0 +1,38 @@
+{ "id_user": 10,
+    "token": "dj9sic90i2903ri2",
+    "data": [
+    { 
+        "longitude": "38.8951", "latitude": "-77.1234" 
+    },
+    { 
+        "longitude": "38.8952", "latitude": "-77.1234" 
+    },
+    { 
+        "longitude": "38.8953", "latitude": "-77.1234" 
+    },
+    { 
+        "longitude": "38.8954", "latitude": "-77.1234" 
+    },
+    {
+         "longitude": "38.8955", "latitude": "-77.1234"
+    },
+    { 
+        "longitude": "38.8956", "latitude": "-77.1234" 
+    },
+    { 
+        "longitude": "38.8957", "latitude": "-77.1234" 
+    },
+    { 
+        "longitude": "38.8958", "latitude": "-77.1234"
+    },
+    { 
+        "longitude": "38.8959", "latitude": "-77.1234" 
+    },
+    { 
+        "longitude": "38.8950", "latitude": "-77.1234" 
+    },
+    { 
+        "longitude": "38.8967", "latitude": "-77.1234"
+    }
+    ]
+}
